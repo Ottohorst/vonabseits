@@ -1,0 +1,54 @@
+body {
+          color: black;
+          font-family: arial, verdana, sans-serif;
+          font-variant: small-caps;
+          font-size: 14px
+     }
+
+a:link {
+          color: black;
+          text-decoration:none;
+     }
+
+a:visited {
+          color: black;
+          text-decoration:none;
+     }
+
+a:hover {
+          color: black;
+          text-decoration:none;
+          background-color:silver;
+     }
+
+
+#albumcover {
+	float:left;
+	width: 305px;
+        height: 305px;
+}
+
+#shopbild {
+	float:left;
+	width: 150px;
+        height: 150px;
+}
+
+#wichtig {
+	text-decoration: underline;
+        font-weight:bold;
+}
+
+#albuminfo {
+	font-size: 12px;
+}
+
+span.gibtsnicht {
+	text-decoration: line-through;
+}
+
+span.prod {
+	color:#2E2E2E;
+        font-size:11px;
+	font-variant: normal;
+}

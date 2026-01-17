@@ -1,0 +1,65 @@
+body {
+          color: white;
+          font-family: arial, verdana, sans-serif;
+          font-variant: small-caps;
+          font-size: 15px
+     }
+
+a:link {
+          color: ffb400;
+          text-decoration:none;
+
+     }
+
+a:visited {
+          color: ffb400;
+          text-decoration:none;
+     }
+
+a:hover {
+          color: white;
+          text-decoration:none;
+          background-color:red;
+     }
+
+#portrait {
+	float:left;
+	width: 305px;
+        height: 305px;
+}
+
+#menueschrift {
+	font-size: 18px;
+	background-color: 7d5800;
+        font-weight:bold
+}
+
+#menueschrift2 {
+	font-size: 18px;
+        font-weight:bold
+}
+
+span.name {
+	font-size: 20px;
+	color:ffb400;
+        font-weight:bold
+}
+
+span.gibtsnicht {
+	text-decoration: line-through;
+}
+
+span.bildquelle {
+	font-size: 12px;
+	color:grey
+}
+
+span.wichtig {
+	color:#ff0000
+        font-weight:bold
+}
+
+span.rot {
+	color:#B40404
+}
+
